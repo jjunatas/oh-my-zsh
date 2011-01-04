@@ -1,0 +1,17 @@
+#!/bin/zsh
+
+alias rsp='rake spec'
+alias rspc='clear && rake spec'
+alias car='clear && rake'
+alias rss='rake spec SPEC'
+alias rsa='rake spec:acceptance'
+alias rsac='clear && rake spec:acceptance'
+alias rsm='rake spec:models'
+alias rsmc='clear && rake spec:models'
+alias rsc='rake spec:controllers'
+alias rscc='clear && rake spec:controllers'
+alias rsh='rake spec:helpers'
+alias rshc='clear && rake spec:helpers'
+alias rsv='rake spec:views'
+alias rsvc='clear && rake spec:views'
+alias bersf='bundle exec rspec spec/ --fail-fast'
