@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-alias fs='foreman start -p 3000 -f Procfile.dev'
+alias fs='foreman start -f Procfile.dev'
