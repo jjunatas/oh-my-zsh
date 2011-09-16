@@ -17,3 +17,4 @@ gvtus=/Users/cjharrelson/development/iberon/gvt-us
 oh_my_zsh=/Users/cjharrelson/.oh-my-zsh
 dotfiles=/Users/cjharrelson/.dotfiles
 rvm=/Users/cjharrelson/.rvm
+titaniumdev=/Users/cjharrelson/development/personal/titanium
