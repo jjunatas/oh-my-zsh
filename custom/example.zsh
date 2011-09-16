@@ -14,3 +14,6 @@ iberon=/Users/cjharrelson/development/iberon
 ncite_server=/Users/cjharrelson/development/iberon/ncite_server
 device_hub=/Users/cjharrelson/development/iberon/ncite_device_hub
 gvtus=/Users/cjharrelson/development/iberon/gvt-us
+oh_my_zsh=/Users/cjharrelson/.oh-my-zsh
+dotfiles=/Users/cjharrelson/.dotfiles
+rvm=/Users/cjharrelson/.rvm
